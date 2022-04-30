@@ -18,6 +18,6 @@ Technologies used in the project:
 - Accessibility - accessibility of all interactive elements from the keyboard,
 - Pixel Perfect.
 
-GitHub Pages: https://Sanjar1304.github.io/shelter/pages/
+GitHub Pages: https://Sanjar1304.github.io/shelter/pages/main/index.html
 
 In the process, Figma format layout was used.
